@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/career-journey.svg" alt="2本软件工程 → 后端开发 2 年半 → 英国 CS 硕士 → 大模型算法与 AI 应用开发" width="100%" />
+  <img src="career-journey.svg" alt="2本软件工程 → 后端开发 2 年半 → 英国 CS 硕士 → 大模型算法" width="100%" />
 </p>
 
 ## 💻 目前关注
