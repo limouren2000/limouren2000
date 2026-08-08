@@ -1,16 +1,14 @@
 <p align="center">
   <a href="https://github.com/limouren2000">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=3500&pause=1500&color=0078D7&center=true&vCenter=true&repeat=true&width=800&lines=%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E6%97%B6%E9%95%BF%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BB%83%E4%B9%A0%E7%94%9F+Limouren"
-      alt="大家好，我是后端开发时长两年的大模型练习生 Limouren"
+      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=3500&pause=1500&color=0078D7&center=true&vCenter=true&repeat=true&width=800&lines=%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E6%97%B6%E9%95%BF%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%BB%83%E4%B9%A0%E7%94%9F+Limouren"
+      alt="大家好，我是后端开发时长两年半的大模型练习生 Limouren"
     />
   </a>
 </p>
 
 <p align="center">
-  <code>后端开发 2 年半</code> →
-  <code>英国 CS 硕士</code> →
-  <code>大模型算法 & AI 应用开发</code>
+  <img src="assets/career-journey.svg" alt="2本软件工程 → 后端开发 2 年半 → 英国 CS 硕士 → 大模型算法与 AI 应用开发" width="100%" />
 </p>
 
 ## 💻 目前关注
