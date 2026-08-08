@@ -22,9 +22,7 @@
 
 喜欢旅行、美食，也喜欢做饭。
 
-最近还整理了一份自己做菜的教程：
-
-👉 [李大厨菜谱教程](https://github.com/limouren2000/chef-li-recipes)
+最近还整理了一份自己做菜的教程：👉 [李大厨菜谱教程](https://github.com/limouren2000/chef-li-recipes)
 
 
 欢迎一起交流！！！
