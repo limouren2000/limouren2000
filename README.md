@@ -18,12 +18,6 @@
 
 `大模型` `AI 应用开发` `RAG` `Agent` `多模态` `AIGC` `后端开发`
 
-## 📚 一些项目
-
-- [大模型应用开发学习笔记](https://github.com/limouren2000/llms-dev-study)
-- [ChatLangChain 学习项目](https://github.com/limouren2000/chat-langchain-study)
-- [李大厨菜谱](https://github.com/limouren2000/chef-li-recipes)
-
 ## 🍳 代码之外
 
 喜欢旅行、美食，也喜欢做饭。
@@ -32,4 +26,5 @@
 
 👉 [李大厨菜谱教程](https://github.com/limouren2000/chef-li-recipes)
 
-如果你也在折腾大模型、RAG、Agent 或各种 AI 应用，旅行、美食，欢迎一起交流！！！
+
+欢迎一起交流！！！
